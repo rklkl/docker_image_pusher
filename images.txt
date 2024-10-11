@@ -1,1 +1,1 @@
-malab/cafu
+malab/cafu:latest
